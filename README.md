@@ -1,6 +1,6 @@
 # Scalable Ranking under Constraints
 
-The repository contains code to reproduce results in the [working paper](https://arxiv.com) `Yegor Tkachenko, Wassim Dhaouadi, and Kamel Jedidi. Scaling up Ranking under Constraints for Live Recommendations by Replacing Optimization with Prediction (2022).`
+The repository contains code to reproduce results in the [working paper](https://arxiv.org/abs/2202.07088) `Yegor Tkachenko, Wassim Dhaouadi, and Kamel Jedidi. Scaling up Ranking under Constraints for Live Recommendations by Replacing Optimization with Prediction (2022).`
 
 
 Here is the bibtex citation format:
@@ -8,7 +8,7 @@ Here is the bibtex citation format:
 @article{scalableranking2022,
 author  = {Tkachenko, Yegor and Dhaouadi, Wassim and Jedidi, Kamel},
 title   = {{Scaling up Ranking under Constraints for Live Recommendations by Replacing Optimization with Prediction}},
-journal={arXiv},
+journal={arXiv preprint arXiv:2202.07088},
 year    = {2022}}
 ```
 
