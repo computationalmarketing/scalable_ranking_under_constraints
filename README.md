@@ -12,7 +12,7 @@ journal = {arXiv preprint arXiv:2202.07088},
 year    = {2022}}
 ```
 
-The paper describes a methodology for real-time optimal [re-ranking](https://developers.google.com/machine-learning/recommendation/dnn/re-ranking) of content candidates based on multiple objectives -- as the final stage in a recommender system.
+The paper describes a methodology for real-time optimal [re-ranking](https://developers.google.com/machine-learning/recommendation/dnn/re-ranking) of content candidates based on multiple objectives - as the final stage in a recommender system.
 
 `./code/environment.yml` is a conda environment file you can use to set up the programming environment.
 
