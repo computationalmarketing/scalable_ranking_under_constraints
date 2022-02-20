@@ -6,10 +6,11 @@ The repository contains code to reproduce results in the [working paper](https:/
 Here is the bibtex citation format:
 ```
 @article{scalableranking2022,
-author  = {Tkachenko, Yegor and Dhaouadi, Wassim and Jedidi, Kamel},
-title   = {{Scaling up Ranking under Constraints for Live Recommendations by Replacing Optimization with Prediction}},
-journal = {arXiv preprint arXiv:2202.07088},
-year    = {2022}}
+	author  = {Tkachenko, Yegor and Dhaouadi, Wassim and Jedidi, Kamel},
+	title   = {{Scaling up Ranking under Constraints for Live Recommendations by Replacing Optimization with Prediction}},
+	journal = {arXiv preprint arXiv:2202.07088},
+	year    = {2022}
+}
 ```
 
 The paper describes a methodology for real-time optimal [re-ranking](https://developers.google.com/machine-learning/recommendation/dnn/re-ranking) of content candidates based on multiple objectives - as the final stage in a recommender system.
